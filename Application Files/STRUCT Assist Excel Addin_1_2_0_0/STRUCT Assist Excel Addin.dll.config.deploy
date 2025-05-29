@@ -52,6 +52,9 @@
             <setting name="fid_STRUCT_Assist_multi" serializeAs="String">
                 <value>7010</value>
             </setting>
+            <setting name="Updatecheck" serializeAs="String">
+                <value />
+            </setting>
         </structIQe_Excel_Addin.MySettings>
     </userSettings>
 </configuration>
